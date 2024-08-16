@@ -13,7 +13,7 @@
         "endTime": "2024-08-16T02:00:00",
         "speakerName": "Speaker 2",
         "videoUrl": "https://www.youtube.com/watch?v=uMzqvtyI_D4",
-        "thumbnailUrl": "https://img.youtube.com/vi/aKFzl7Bj7gQ/0.jpg"
+        "thumbnailUrl": "https://img.youtube.com/vi/uMzqvtyI_D4/0.jpg"
     },
     {
         "title": "Video 3 - Part 1",
@@ -21,7 +21,7 @@
         "endTime": "2024-08-16T03:00:00",
         "speakerName": "Speaker 3",
         "videoUrl": "https://www.youtube.com/watch?v=hkvHYlZKdm4",
-        "thumbnailUrl": "https://img.youtube.com/vi/TO2DzSJHxgg/0.jpg"
+        "thumbnailUrl": "https://img.youtube.com/vi/hkvHYlZKdm4/0.jpg"
     },
     {
         "title": "Video 1 - Part 2",
@@ -29,7 +29,7 @@
         "endTime": "2024-08-16T04:00:00",
         "speakerName": "Speaker 1",
         "videoUrl": "https://www.youtube.com/watch?v=IUsyJ6SDt7c",
-        "thumbnailUrl": "https://img.youtube.com/vi/pec91eYUtoU/0.jpg"
+        "thumbnailUrl": "https://img.youtube.com/vi/IUsyJ6SDt7c/0.jpg"
     },
     {
         "title": "Video 2 - Part 2",
@@ -37,7 +37,7 @@
         "endTime": "2024-08-16T05:00:00",
         "speakerName": "Speaker 2",
         "videoUrl": "https://www.youtube.com/watch?v=uMzqvtyI_D4",
-        "thumbnailUrl": "https://img.youtube.com/vi/aKFzl7Bj7gQ/0.jpg"
+        "thumbnailUrl": "https://img.youtube.com/vi/uMzqvtyI_D4/0.jpg"
     },
     {
         "title": "Video 3 - Part 2",
@@ -45,7 +45,7 @@
         "endTime": "2024-08-16T06:00:00",
         "speakerName": "Speaker 3",
         "videoUrl": "https://www.youtube.com/watch?v=hkvHYlZKdm4",
-        "thumbnailUrl": "https://img.youtube.com/vi/TO2DzSJHxgg/0.jpg"
+        "thumbnailUrl": "https://img.youtube.com/vi/hkvHYlZKdm4/0.jpg"
     },
     {
         "title": "Video 1 - Part 3",
@@ -53,7 +53,7 @@
         "endTime": "2024-08-16T07:00:00",
         "speakerName": "Speaker 1",
         "videoUrl": "https://www.youtube.com/watch?v=IUsyJ6SDt7c",
-        "thumbnailUrl": "https://img.youtube.com/vi/pec91eYUtoU/0.jpg"
+        "thumbnailUrl": "https://img.youtube.com/vi/IUsyJ6SDt7c/0.jpg"
     },
     {
         "title": "Video 2 - Part 3",
@@ -61,7 +61,7 @@
         "endTime": "2024-08-16T08:00:00",
         "speakerName": "Speaker 2",
         "videoUrl": "https://www.youtube.com/watch?v=uMzqvtyI_D4",
-        "thumbnailUrl": "https://img.youtube.com/vi/aKFzl7Bj7gQ/0.jpg"
+        "thumbnailUrl": "https://img.youtube.com/vi/uMzqvtyI_D4/0.jpg"
     },
   
     {
@@ -70,7 +70,7 @@
         "endTime": "2024-08-16T09:00:00",
         "speakerName": "Speaker 3",
         "videoUrl": "https://www.youtube.com/watch?v=hkvHYlZKdm4",
-        "thumbnailUrl": "https://img.youtube.com/vi/TO2DzSJHxgg/0.jpg"
+        "thumbnailUrl": "https://img.youtube.com/vi/hkvHYlZKdm4/0.jpg"
     },
     {
         "title": "Video 1 - Part 4",
@@ -78,7 +78,7 @@
         "endTime": "2024-08-16T10:00:00",
         "speakerName": "Speaker 1",
         "videoUrl": "https://www.youtube.com/watch?v=IUsyJ6SDt7c",
-        "thumbnailUrl": "https://img.youtube.com/vi/pec91eYUtoU/0.jpg"
+        "thumbnailUrl": "https://img.youtube.com/vi/IUsyJ6SDt7c/0.jpg"
     },
     {
         "title": "Video 2 - Part 4",
@@ -86,7 +86,7 @@
         "endTime": "2024-08-16T11:00:00",
         "speakerName": "Speaker 2",
         "videoUrl": "https://www.youtube.com/watch?v=uMzqvtyI_D4",
-        "thumbnailUrl": "https://img.youtube.com/vi/aKFzl7Bj7gQ/0.jpg"
+        "thumbnailUrl": "https://img.youtube.com/vi/uMzqvtyI_D4/0.jpg"
     },
     {
         "title": "Video 3 - Part 4",
@@ -94,7 +94,7 @@
         "endTime": "2024-08-16T12:00:00",
         "speakerName": "Speaker 3",
         "videoUrl": "https://www.youtube.com/watch?v=hkvHYlZKdm4",
-        "thumbnailUrl": "https://img.youtube.com/vi/TO2DzSJHxgg/0.jpg"
+        "thumbnailUrl": "https://img.youtube.com/vi/hkvHYlZKdm4/0.jpg"
     },
     {
         "title": "Video 1 - Part 5",
@@ -102,7 +102,7 @@
         "endTime": "2024-08-16T13:00:00",
         "speakerName": "Speaker 1",
         "videoUrl": "https://www.youtube.com/watch?v=IUsyJ6SDt7c",
-        "thumbnailUrl": "https://img.youtube.com/vi/pec91eYUtoU/0.jpg"
+        "thumbnailUrl": "https://img.youtube.com/vi/IUsyJ6SDt7c/0.jpg"
     },
     {
         "title": "Video 2 - Part 5",
@@ -110,7 +110,7 @@
         "endTime": "2024-08-16T14:00:00",
         "speakerName": "Speaker 2",
         "videoUrl": "https://www.youtube.com/watch?v=uMzqvtyI_D4",
-        "thumbnailUrl": "https://img.youtube.com/vi/aKFzl7Bj7gQ/0.jpg"
+        "thumbnailUrl": "https://img.youtube.com/vi/uMzqvtyI_D4/0.jpg"
     },
     {
         "title": "Video 3 - Part 5",
@@ -118,7 +118,7 @@
         "endTime": "2024-08-16T15:00:00",
         "speakerName": "Speaker 3",
         "videoUrl": "https://www.youtube.com/watch?v=hkvHYlZKdm4",
-        "thumbnailUrl": "https://img.youtube.com/vi/TO2DzSJHxgg/0.jpg"
+        "thumbnailUrl": "https://img.youtube.com/vi/hkvHYlZKdm4/0.jpg"
     },
     {
         "title": "Video 1 - Part 6",
@@ -126,7 +126,7 @@
         "endTime": "2024-08-16T16:00:00",
         "speakerName": "Speaker 1",
         "videoUrl": "https://www.youtube.com/watch?v=IUsyJ6SDt7c",
-        "thumbnailUrl": "https://img.youtube.com/vi/pec91eYUtoU/0.jpg"
+        "thumbnailUrl": "https://img.youtube.com/vi/IUsyJ6SDt7c/0.jpg"
     },
     {
         "title": "Video 2 - Part 6",
@@ -134,7 +134,7 @@
         "endTime": "2024-08-16T17:00:00",
         "speakerName": "Speaker 2",
         "videoUrl": "https://www.youtube.com/watch?v=uMzqvtyI_D4",
-        "thumbnailUrl": "https://img.youtube.com/vi/aKFzl7Bj7gQ/0.jpg"
+        "thumbnailUrl": "https://img.youtube.com/vi/uMzqvtyI_D4/0.jpg"
     },
     {
         "title": "Video 3 - Part 6",
@@ -142,7 +142,7 @@
         "endTime": "2024-08-16T18:00:00",
         "speakerName": "Speaker 3",
         "videoUrl": "https://www.youtube.com/watch?v=hkvHYlZKdm4",
-        "thumbnailUrl": "https://img.youtube.com/vi/TO2DzSJHxgg/0.jpg"
+        "thumbnailUrl": "https://img.youtube.com/vi/hkvHYlZKdm4/0.jpg"
     },
     {
         "title": "Video 1 - Part 7",
@@ -150,7 +150,7 @@
         "endTime": "2024-08-16T19:00:00",
         "speakerName": "Speaker 1",
         "videoUrl": "https://www.youtube.com/watch?v=IUsyJ6SDt7c",
-        "thumbnailUrl": "https://img.youtube.com/vi/pec91eYUtoU/0.jpg"
+        "thumbnailUrl": "https://img.youtube.com/vi/IUsyJ6SDt7c/0.jpg"
     },
     {
         "title": "Video 2 - Part 7",
@@ -158,7 +158,7 @@
         "endTime": "2024-08-16T20:00:00",
         "speakerName": "Speaker 2",
         "videoUrl": "https://www.youtube.com/watch?v=uMzqvtyI_D4",
-        "thumbnailUrl": "https://img.youtube.com/vi/aKFzl7Bj7gQ/0.jpg"
+        "thumbnailUrl": "https://img.youtube.com/vi/uMzqvtyI_D4/0.jpg"
     },
     {
         "title": "Video 3 - Part 7",
@@ -166,7 +166,7 @@
         "endTime": "2024-08-16T21:00:00",
         "speakerName": "Speaker 3",
         "videoUrl": "https://www.youtube.com/watch?v=hkvHYlZKdm4",
-        "thumbnailUrl": "https://img.youtube.com/vi/TO2DzSJHxgg/0.jpg"
+        "thumbnailUrl": "https://img.youtube.com/vi/hkvHYlZKdm4/0.jpg"
     },
     {
         "title": "Video 1 - Part 8",
@@ -174,7 +174,7 @@
         "endTime": "2024-08-16T22:00:00",
         "speakerName": "Speaker 1",
         "videoUrl": "https://www.youtube.com/watch?v=IUsyJ6SDt7c",
-        "thumbnailUrl": "https://img.youtube.com/vi/pec91eYUtoU/0.jpg"
+        "thumbnailUrl": "https://img.youtube.com/vi/IUsyJ6SDt7c/0.jpg"
     },
     {
         "title": "Video 2 - Part 8",
@@ -182,7 +182,7 @@
         "endTime": "2024-08-16T23:00:00",
         "speakerName": "Speaker 2",
         "videoUrl": "https://www.youtube.com/watch?v=uMzqvtyI_D4",
-        "thumbnailUrl": "https://img.youtube.com/vi/aKFzl7Bj7gQ/0.jpg"
+        "thumbnailUrl": "https://img.youtube.com/vi/uMzqvtyI_D4/0.jpg"
     },
     {
         "title": "Video 3 - Part 8",
@@ -190,6 +190,6 @@
         "endTime": "2024-08-15T00:00:00",
         "speakerName": "Speaker 3",
         "videoUrl": "https://www.youtube.com/watch?v=hkvHYlZKdm4",
-        "thumbnailUrl": "https://img.youtube.com/vi/TO2DzSJHxgg/0.jpg"
+        "thumbnailUrl": "https://img.youtube.com/vi/hkvHYlZKdm4/0.jpg"
     }
 ]
