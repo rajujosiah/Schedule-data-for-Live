@@ -60,8 +60,8 @@
         "startTime": "2024-08-16T07:00:00",
         "endTime": "2024-08-16T08:00:00",
         "speakerName": "Speaker 2",
-        "videoUrl": "https://youtu.be/n2T4vol3lV0?si=zAfBfBKiVpyPEaki",
-        "thumbnailUrl": "https://img.youtube.com/vi/n2T4vol3lV0/0.jpg"
+        "videoUrl": "https://youtu.be/a6-n9fLoBiI",
+        "thumbnailUrl": "https://img.youtube.com/vi/a6-n9fLoBiI.jpg"
     },
     {
         "title": "Video 3 - Part 3",
@@ -76,7 +76,7 @@
         "startTime": "2024-08-16T08:00:00",
         "endTime": "2024-08-16T10:00:00",
         "speakerName": " Speaker",
-        "videoUrl": "https://youtu.be/yuA5yHagZFc?si=bp-C-dRjznU0bNZU",
+        "videoUrl": "https://youtu.be/yuA5yHagZFc",
         "thumbnailUrl": "https://img.youtube.com/vi/yuA5yHagZFc/0.jpg"
     }
 ]
