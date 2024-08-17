@@ -1,8 +1,8 @@
 [
     {
         "title": "Morning Video 1",
-        "startTime": "2024-08-17T06:00:00",
-        "endTime": "2024-08-17T06:30:00",
+        "startTime": "T06:00:00",
+        "endTime": "T06:30:00",
         "speakerName": "Speaker 1",
         "videoUrl": "https://www.youtube.com/watch?v=U6pYigNYB78",
         "thumbnailUrl": "https://img.youtube.com/vi/U6pYigNYB78/0.jpg"
